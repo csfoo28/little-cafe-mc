@@ -1,15 +1,19 @@
-## TPA
+# 🧾 Little Cafe Minecraft Server Commands
+
+Below is a list of available commands you can use on the **Little Cafe** Minecraft server. These commands are designed to enhance your gameplay, improve collaboration, and provide convenient features.
+
+## 📌 TPA
 
 The `/trigger TPA` command allows players to request teleportation to another player's location. This is commonly used in multiplayer servers to facilitate cooperative gameplay, exploration, or assistance.
 
-### 📌 Command Usage
+### Command Usage
 
     /trigger TPA
-### 📌Pick Player to TP
+### Pick Player to TP
 Open chat and use mouse to click on player you want to teleport
 
 ![picker player to teleport](https://i.imgur.com/VLSSlkP.png)
-### 📌Accept TP Request
+### Accept TP Request
 Open chat and use mouse to click on player's request to accept
 
 ![accept player tp request](https://i.imgur.com/IunqHq8.png)
