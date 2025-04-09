@@ -41,15 +41,13 @@ Follow these steps to change your Minecraft skin using a custom image:
    Go to [mineskin.org](https://mineskin.org/) and upload the `.png` file.
 
 3. **Generate a Skin Link**  
-Click on this button
-
-   After uploading, click **GENERATE** and wait for the process to complete.
+After uploading, click **GENERATE** and wait for the process to complete.
 
 5. **Copy the Direct Link**  
-   Once done, copy the **direct link** to your generated skin.
-Click on this button:
-![button example](https://i.imgur.com/zyWncA6.png)
-Copy this direct link
+Once done, copy the **direct link** to your generated skin.<br>
+Click on this button:<br>
+![button example](https://i.imgur.com/zyWncA6.png)<br>
+Copy this direct link:<br>
 ![direct link example](https://i.imgur.com/tcw7Sef.png)
 6. **Set the Skin in Minecraft**  
    In your Minecraft chat, run the following command (replace the link):
