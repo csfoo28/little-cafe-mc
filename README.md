@@ -7,9 +7,11 @@ The `/trigger TPA` command allows players to request teleportation to another pl
     /trigger TPA
 ### 📌Pick Player to TP
 Open chat and use mouse to click on player you want to teleport
+
 ![picker player to teleport](https://i.imgur.com/VLSSlkP.png)
 ### 📌Accept TP Request
 Open chat and use mouse to click on player's request to accept
+
 ![accept player tp request](https://i.imgur.com/IunqHq8.png)
 
 ## 🗺️ Live Minecraft Map
@@ -45,11 +47,11 @@ Click on this button
 
 5. **Copy the Direct Link**  
    Once done, copy the **direct link** to your generated skin.
-Click on this button:![button example](https://i.imgur.com/zyWncA6.png)
+Click on this button:
+![button example](https://i.imgur.com/zyWncA6.png)
 Copy this direct link
 ![direct link example](https://i.imgur.com/tcw7Sef.png)
 6. **Set the Skin in Minecraft**  
    In your Minecraft chat, run the following command (replace the link):
-   
-
-    /skin set web classic "link_you_copy"
+   ```plaintext
+   /skin set web classic "link_you_copy"
