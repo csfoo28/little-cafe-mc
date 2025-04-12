@@ -1,6 +1,39 @@
+
 # 🧾 Little Cafe Minecraft Server Commands
 
 Below is a list of available commands you can use on the **Little Cafe** Minecraft server. These commands are designed to enhance your gameplay, improve collaboration, and provide convenient features.
+
+# How to Join Our Minecraft Server
+
+To ensure a safe and fun experience for all players, we require a quick verification process before you can start playing.
+
+## 🧩 Step-by-Step Instructions
+
+### 1. Attempt to Join the Server
+- Launch Minecraft and connect to our server using the provided IP address.
+- The server will **deny access** and display a **4-digit verification code**.
+ ![example code](https://i.imgur.com/QOAISuj.png)
+
+### 2. Go to the Discord Server
+- Open our Discord server and navigate to the **`#events`** channel.
+
+### 3. Verify Your Code
+- In the `#events` channel, type the following command:
+```
+/verify "your-code"
+```
+Replace `<your-code>` with the 4-digit number you received from the server.
+
+![example verify](https://i.imgur.com/O13sHUz.png)
+
+### 4. Confirmation Message
+- You will see a message:
+`Your account has been verified`
+![example verify](https://i.imgur.com/xoxpbXB.png)
+- After this, you can join the Minecraft server successfully.
+
+### 5. Enjoy the Server
+- You're all set! Have fun and play fair 🎮
 
 ## 📌 TPA
 
