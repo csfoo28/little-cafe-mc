@@ -29,6 +29,7 @@ Replace `<your-code>` with the 4-digit number you received from the server.
 ### 4. Confirmation Message
 - You will see a message:
 `Your account has been verified`
+
 ![example verify](https://i.imgur.com/xoxpbXB.png)
 - After this, you can join the Minecraft server successfully.
 
