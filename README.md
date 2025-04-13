@@ -36,14 +36,15 @@ Replace `<your-code>` with the 4-digit number you received from the server.
 ### 5. Enjoy the Server
 - You're all set! Have fun and play fair 🎮
 
-## 📌 TPA
+## 📌 **TPA**
+Command allows players to request teleportation to another player's location. This is commonly used in multiplayer servers to facilitate cooperative gameplay, exploration, or assistance.
 
-The `/trigger TPA` command allows players to request teleportation to another player's location. This is commonly used in multiplayer servers to facilitate cooperative gameplay, exploration, or assistance.
-
-### Command Usage
-
-    /trigger TPA
 ### Pick Player to TP
+
+##### Command
+```
+/trigger TPA
+```
 Open chat and use mouse to click on player you want to teleport
 
 ![picker player to teleport](https://i.imgur.com/VLSSlkP.png)
@@ -51,6 +52,25 @@ Open chat and use mouse to click on player you want to teleport
 Open chat and use mouse to click on player's request to accept
 
 ![accept player tp request](https://i.imgur.com/IunqHq8.png)
+
+### Back to previous location
+Command allow player to teleport to last teleport location or teleport back to last death location
+```
+/trigger back
+```
+
+### Set Home
+Command allow player to set a home location and teleport back
+
+##### Set Home
+```
+/trigger sethome
+```
+
+#### Teleport back to `home`
+```
+/trigger home
+```
 
 ## 🗺️ Live Minecraft Map
 
